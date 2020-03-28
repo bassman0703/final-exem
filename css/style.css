@@ -1,0 +1,14 @@
+.bg-color {
+    background-color: black;
+    height: 700px;
+    width: 100%;
+}
+.white-box {
+    background-color: white;
+    height: 800px;
+    width: 1390px;
+}
+.header-img { 
+    margin-left: 55%;
+    margin-top: 115px;
+}
