@@ -162,24 +162,13 @@ font-size: 25px;
         /* footer */
 
 .f-bg-bleck {
-    height: 120px;
+    height: 100px;
     width: 100%;
     background-color: black;
-    border-radius: 15px 15px 0 0;
-    
-}
-.footer-social {
-    font-size: 30px;
-    margin-left: 50px;
-    margin-top: 25px;
-}
-.footer-logo {
-   margin-left:400px;
-    
+    padding: 30px;
 }
  .footer-p {
      font-size: 20px;
-     margin-top: 30px;
  }
 
 
