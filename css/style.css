@@ -21,7 +21,7 @@ html {
 }
 .bg-grey {
   background-color: #fafafa;
-  height:1000px;
+  height:900px;
 }
 
 .white-box {
@@ -85,7 +85,10 @@ html {
     
 }
 .about-img {
-    margin-left: 35px;
+    background-image: url(../img/About.png);
+     background-repeat: no-repeat;
+    background-size: contain;
+    background-position: 100% 15%;
 }
 .social {
 margin-left: 35px;
@@ -101,3 +104,82 @@ font-size: 25px;
     font-family: 'Spectral', serif;
 
 }
+.bg-color {
+    background-color: #fafafa;
+    height: 125px;
+}
+
+/* section-2 */
+.experience-img {
+    background-image: url(../img/Experience.png);
+     background-repeat: no-repeat;
+    background-size: contain;
+    background-position: 100% 15%;
+}
+
+.section-button {
+    margin-left: 120px;
+    margin-top: 40px;
+}
+
+.section-p {
+    margin-bottom: 10px;
+    font-size: 20px;
+    margin-left: 20px;
+    font-family: 'Spectral', serif;
+}
+
+/* section-3 */
+.section-3-box {
+    background-color: white;
+    border-radius: 15px;
+    height: 800px;
+    width: 100%;
+    box-shadow: 0 0 1px 2px rgba(0, 0, 0, 0.3);
+    padding: 100px;
+}
+.grid-img {
+    width: 150px;
+}
+.grid-h6 {
+    font-size: 20px;
+    
+}
+.grid-p {
+    font-size: 18px;
+    font-family: 'Spectral', serif;
+}
+.section-h2{
+    font-size: 40px;
+    text-align: center;
+    padding: 40px;
+}
+.section-div {
+    padding: 10px;
+}
+
+
+        /* footer */
+
+.f-bg-bleck {
+    height: 120px;
+    width: 100%;
+    background-color: black;
+    border-radius: 15px 15px 0 0;
+    
+}
+.footer-social {
+    font-size: 30px;
+    margin-left: 50px;
+    margin-top: 25px;
+}
+.footer-logo {
+   margin-left:400px;
+    
+}
+ .footer-p {
+     font-size: 20px;
+     margin-top: 30px;
+ }
+
+
